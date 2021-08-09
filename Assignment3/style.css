@@ -1,0 +1,27 @@
+body{
+    background-color: #212529;
+    display: flex;
+}
+
+section{
+    margin: 270px auto;
+}
+
+button{
+    padding: 10px 25px;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 2px solid plum;
+    background-color: #212529;
+    color: plum;
+    transition: 1s;
+    border-radius: 10px;
+}
+
+button:hover{
+    border: 2px solid purple;
+    color: purple;
+    cursor: pointer;
+    box-shadow:2px 2px 4px palevioletred, -2px -2px 3px aqua;
+    transform: translateY(-10px);
+}
