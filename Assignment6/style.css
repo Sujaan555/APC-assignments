@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+
+}
+
+h5{
+    color:lightsalmon;
+}
+
+.card1{
+    text-align: center;
+    box-shadow: lightseagreen ;
+}
+#button{
+    background-color: #40916c;
+    border-radius: 10px;
+    color: aliceblue;
+    text-align: center;
+    width: 200px;
+    height: 40px;
+}
+.card2{
+    text-align: center;
+}
+.dltbtn{
+    background-color: lightblue;
+    border-radius: 5px;
+    color: aliceblue;
+    text-align: center;
+    width: 50px;
+    height: 40px;
+}
+#list{
+   list-style-type: none;
+}
+
+hr{
+    height: 12px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgb(179, 173, 230);
+}
+h3{
+    text-align: center;
+    color: crimson;
+}
+.mbtn{
+    background-color: lightblue;
+    border-radius: 5px;
+    height: 40px;
+    width: 50px;
+}
+.dbtn{
+    background-color: lightblue;
+    border-radius: 5px;
+    height: 40px;
+    width: 50px;
+}
+.ebtn{
+    background-color: lightblue;
+    border-radius: 5px;
+    height: 40px;
+    width: 50px;
+}
